@@ -1,6 +1,8 @@
 # subband_WaveRNN
 A pytorch implementation of the subband_WaveRNN mentioned in DURIAN(https://arxiv.org/pdf/1909.01700.pdf)
 
+![](./images/subband_wavernn.JPG)
+
 ## Attention
 * I did not add local condition, I just implemented the subband framework.
 
